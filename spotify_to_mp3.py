@@ -23,8 +23,8 @@ class GetSpotify:
 
 ### INIT MAIN ###
 spotifyBaseUrl = "https://api.spotify.com"
-spotifyToken = "BQCLs6M45C_V90tCpDTwR6UyYgys9Nqur7fcStVNDuM9P2Ogw-SFbVc36YuHtc6zvPYI68LrFp5h2pyu4IAen_3JgUb77bVCgemwBxdf6pv2DwpL4eTCpycpyuu8l6NJIXqXJe3fTQoecBQrjajb25T8l2K-t9cl1bupSF6gPijQtsIKfdezJVV5HnBqgMhb17YY-Qvb-l6mGLtvKNSVyZAGm0sqKRfwDMQJIBWsn4g"
-# spotifyClientId = "674f3dc4619b4bfd9648cab56622b673"
+spotifyToken = "####"
+# spotifyClientId = "####"
 
 playlistId = "2JcuiV3pxwG9kF7KlaysXc"
 
